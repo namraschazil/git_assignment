@@ -1,1 +1,1 @@
-Git Assignment - namraschazil
+a. What is an issue? Issues are items that are created in a repository to plan, discuss and track work b. What is a pull request? Pull requests are a means of conveying the changes you have made to a branch in a repository on Github
