@@ -1,3 +1,1 @@
-d. Give me a step by step guide on how to add someone to your repository. Firstly please know the username of the person you are inviting as a collborator to a personal repository. Then on the Github webpage go to the main page of the repository. Open the settings tab in the desired respository, go to Access section and click on Collaborators. From there Add people and type their username to add them to the repository. The user will receieve a notification for an invitation which they have to accept to be able to edit the repository.  
-
-e. What is the difference between git and GitHub? Git i a version control system that allows us to track changes to our code whereas GitHub is a web-based hosting service for git repositories
+Git Assignment - namraschail
